@@ -1,5 +1,5 @@
 {
-  "configVersion": 1,
+  "configVersion": 2,
   "appNameAr": "ياسين لايف",
   "appNameEn": "YACINE LIVE",
   "rateBannerImage": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=1600",
@@ -9,6 +9,10 @@
   "supportEmail": "",
   "externalPlayerPackage": "com.ilyas.playerpro",
   "externalPlayerStoreUrl": "https://play.google.com/store/apps/details?id=com.ilyas.playerpro",
+  "footballApi": {
+    "enabled": true,
+    "baseUrl": "https://yacine-football-proxy.hamza-ysntv-2026.workers.dev/"
+  },
   "leaguePriority": [
     2,
     39,
