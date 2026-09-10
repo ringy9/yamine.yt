@@ -1,5 +1,5 @@
 {
-  "configVersion": 5,
+  "configVersion": 6,
   "appNameAr": "ياسين لايف",
   "appNameEn": "YACINE LIVE",
   "headerLogoUrl": "",
@@ -16,6 +16,7 @@
   },
   "strongestMatchesCount": 5,
   "autoRefreshMinutes": 5,
+  "manualRefreshCooldownSeconds": 30,
   "leaguePriority": [
     2,
     39,
