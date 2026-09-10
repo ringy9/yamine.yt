@@ -1,0 +1,125 @@
+{
+  "configVersion": 1,
+  "appNameAr": "ياسين لايف",
+  "appNameEn": "YACINE LIVE",
+  "rateBannerImage": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=1600",
+  "rateUsUrl": "https://play.google.com/store/apps/details?id=com.ysntv.yaminetv",
+  "shareUrl": "https://play.google.com/store/apps/details?id=com.ysntv.yaminetv",
+  "privacyPolicyUrl": "",
+  "supportEmail": "",
+  "externalPlayerPackage": "com.ilyas.playerpro",
+  "externalPlayerStoreUrl": "https://play.google.com/store/apps/details?id=com.ilyas.playerpro",
+  "leaguePriority": [
+    2,
+    39,
+    140,
+    135,
+    78,
+    61,
+    307,
+    12,
+    20,
+    3,
+    848,
+    253,
+    200,
+    15,
+    1,
+    4,
+    17,
+    45,
+    48,
+    143,
+    137,
+    81,
+    66,
+    233,
+    301,
+    383,
+    305,
+    322
+  ],
+  "majorTeamIds": [
+    541,
+    529,
+    530,
+    40,
+    42,
+    50,
+    33,
+    49,
+    47,
+    85,
+    157,
+    165,
+    496,
+    489,
+    505,
+    492,
+    31,
+    26,
+    6,
+    2,
+    9,
+    10,
+    1
+  ],
+  "streams": [
+    {
+      "fixtureId": 0,
+      "playerMode": "internal",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=1600",
+      "sources": [
+        {
+          "nameAr": "السيرفر الافتراضي",
+          "nameEn": "Default server",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "type": "mp4",
+          "user_agent": "",
+          "referer": "",
+          "origin": "",
+          "cookie": ""
+        }
+      ]
+    },
+    {
+      "fixtureId": 123456,
+      "playerMode": "internal",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=1600",
+      "sources": [
+        {
+          "nameAr": "سيرفر 1",
+          "nameEn": "Server 1",
+          "url": "https://example.com/match-123456/master.m3u8",
+          "type": "m3u8",
+          "user_agent": "Mozilla/5.0",
+          "referer": "https://example.com/",
+          "origin": "https://example.com",
+          "cookie": ""
+        }
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "id": "h1",
+      "titleAr": "أفضل لقطات المباراة — فيديو تجريبي",
+      "titleEn": "Best match moments — demo video",
+      "competition": "Yacine Live Demo",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=1200",
+      "videoUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "videoType": "m3u8",
+      "duration": "08:42"
+    },
+    {
+      "id": "h2",
+      "titleAr": "أجمل الأهداف والفرص — فيديو تجريبي",
+      "titleEn": "Top goals and chances — demo video",
+      "competition": "Highlights",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1553778263-73a83bab9b0c?w=1200",
+      "videoUrl": "https://www.youtube.com/watch?v=aqz-KE-bpKQ",
+      "videoType": "youtube",
+      "duration": "10:34"
+    }
+  ]
+}
