@@ -1,5 +1,5 @@
 {
-  "configVersion": 9,
+  "configVersion": 10,
   "appNameAr": "ياسين لايف",
   "appNameEn": "YACINE LIVE",
   "headerLogoUrl": "",
@@ -8,8 +8,12 @@
   "shareUrl": "https://play.google.com/store/apps/details?id=com.ysntv.yaminetv",
   "privacyPolicyUrl": "",
   "supportEmail": "",
-  "externalPlayerPackage": "com.ilyas.playerpro",
-  "externalPlayerStoreUrl": "https://play.google.com/store/apps/details?id=com.ilyas.playerpro",
+  "externalPlayer": {
+    "enabled": true,
+    "useForAllMatches": false,
+    "packageName": "com.ilyas.playerpro",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.ilyas.playerpro"
+  },
   "footballApi": {
     "enabled": true,
     "baseUrl": "https://yacine-football-proxy.hamza-ysntv-2026.workers.dev/"
