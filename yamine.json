@@ -1,5 +1,5 @@
 {
-  "configVersion": 6,
+  "configVersion": 9,
   "appNameAr": "ياسين لايف",
   "appNameEn": "YACINE LIVE",
   "headerLogoUrl": "",
@@ -14,6 +14,7 @@
     "enabled": true,
     "baseUrl": "https://yacine-football-proxy.hamza-ysntv-2026.workers.dev/"
   },
+  "newsApiUrl": "https://yacine-football-proxy.hamza-ysntv-2026.workers.dev/news",
   "strongestMatchesCount": 5,
   "autoRefreshMinutes": 5,
   "manualRefreshCooldownSeconds": 30,
