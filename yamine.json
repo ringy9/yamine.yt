@@ -1,5 +1,5 @@
 {
-  "configVersion": 14,
+  "configVersion": 16,
   "appNameAr": "ياسين لايف",
   "appNameEn": "YACINE LIVE",
   "headerLogoUrl": "",
@@ -8,6 +8,27 @@
   "shareUrl": "https://play.google.com/store/apps/details?id=com.ysntv.yaminetv",
   "privacyPolicyUrl": "",
   "supportEmail": "",
+  "socialLinks": {
+    "whatsappEnabled": true,
+    "whatsappUrl": "",
+    "telegramEnabled": true,
+    "telegramUrl": "https://t.me/Ilyas_tv_live"
+  },
+  "telegramJoinPopup": {
+    "enabled": true,
+    "showOnLaunch": true,
+    "showOncePerCampaign": true,
+    "campaignId": "telegram-channel-v1",
+    "channelUrl": "https://t.me/Ilyas_tv_live",
+    "titleAr": "انضم إلى قناتنا على تيليجرام",
+    "titleEn": "Join our Telegram channel",
+    "messageAr": "تابع آخر أخبار المباريات وروابط المشاهدة والتنبيهات المهمة مباشرة على قناتنا.",
+    "messageEn": "Get the latest match news, viewing links and important alerts directly on our channel.",
+    "joinButtonAr": "انضم الآن",
+    "joinButtonEn": "Join now",
+    "laterButtonAr": "لاحقاً",
+    "laterButtonEn": "Later"
+  },
   "exitDialog": {
     "enabled": true,
     "titleAr": "هل تريد مغادرة التطبيق؟",
