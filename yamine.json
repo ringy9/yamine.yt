@@ -1,5 +1,5 @@
 {
-  "configVersion": 16,
+  "configVersion": 17,
   "appNameAr": "ياسين لايف",
   "appNameEn": "YACINE LIVE",
   "headerLogoUrl": "",
@@ -10,7 +10,7 @@
   "supportEmail": "",
   "socialLinks": {
     "whatsappEnabled": true,
-    "whatsappUrl": "",
+    "whatsappUrl": "https://whatsapp.com/channel/0029Vb91zwxBadmUqBZUtO16",
     "telegramEnabled": true,
     "telegramUrl": "https://t.me/Ilyas_tv_live"
   },
