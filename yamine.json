@@ -1,5 +1,5 @@
 {
-  "configVersion": 10,
+  "configVersion": 13,
   "appNameAr": "ياسين لايف",
   "appNameEn": "YACINE LIVE",
   "headerLogoUrl": "",
@@ -8,6 +8,17 @@
   "shareUrl": "https://play.google.com/store/apps/details?id=com.ysntv.yaminetv",
   "privacyPolicyUrl": "",
   "supportEmail": "",
+  "exitDialog": {
+    "enabled": true,
+    "titleAr": "هل تريد مغادرة التطبيق؟",
+    "titleEn": "Leave Yacine Live?",
+    "messageAr": "نتمنى أنك استمتعت بالتجربة. يمكنك العودة في أي وقت لمتابعة جديد المباريات.",
+    "messageEn": "We hope you enjoyed the experience. Come back anytime for the latest matches.",
+    "stayAr": "البقاء",
+    "stayEn": "Stay",
+    "exitAr": "خروج",
+    "exitEn": "Exit"
+  },
   "externalPlayer": {
     "enabled": true,
     "useForAllMatches": true,
@@ -97,7 +108,7 @@
     },
     {
       "fixtureId": 123456,
-      "playerMode": "external",
+      "playerMode": "internal",
       "thumbnailUrl": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=1600",
       "sources": [
         {
