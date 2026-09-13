@@ -1,5 +1,5 @@
 {
-  "configVersion": 18,
+  "configVersion": 27,
   "appNameAr": "ياسين لايف",
   "appNameEn": "YACINE LIVE",
   "headerLogoUrl": "",
@@ -13,6 +13,122 @@
     "appId": "",
     "requestPermissionOnLaunch": true,
     "permissionPromptDelaySeconds": 5
+  },
+  "ads": {
+    "enabled": true,
+    "testMode": true,
+    "consentEnabled": true,
+    "tagForChildDirectedTreatment": false,
+    "tagForUnderAgeOfConsent": false,
+    "primaryNetwork": "admob",
+    "fallbackNetwork": "ironSourceLevelPlay",
+    "routing": {
+      "admobPrimaryEnabled": true,
+      "levelPlayFallbackEnabled": true
+    },
+    "formats": {
+      "interstitial": {
+        "enabled": true,
+        "showBeforePlayer": true,
+        "showOnFirstPlayerClick": true,
+        "everyNPlayerClicks": 4,
+        "minIntervalSeconds": 180,
+        "maxPerSession": 2
+      },
+      "banner": {
+        "enabled": true,
+        "showOnMainScreens": true
+      },
+      "native": {
+        "enabled": false,
+        "showInMatchesFeed": true,
+        "showInNewsFeed": true,
+        "insertEveryItems": 6,
+        "maxPerScreen": 2
+      },
+      "appOpen": {
+        "enabled": false,
+        "showOnColdStart": false,
+        "showOnForeground": true,
+        "minBackgroundSeconds": 120,
+        "minIntervalSeconds": 14400,
+        "maxPerSession": 1
+      },
+      "rewarded": {
+        "enabled": false,
+        "userInitiatedOnly": true,
+        "unlockPremiumServer": false,
+        "timeoutSeconds": 5
+      }
+    },
+    "networks": {
+      "admob": {
+        "enabled": true,
+        "appId": "ca-app-pub-3940256099942544~3347511713",
+        "adUnits": {
+          "interstitial": "ca-app-pub-3940256099942544/1033173712",
+          "banner": "ca-app-pub-3940256099942544/6300978111",
+          "native": "ca-app-pub-3940256099942544/2247696110",
+          "appOpen": "ca-app-pub-3940256099942544/9257395921",
+          "rewarded": "ca-app-pub-3940256099942544/5224354917"
+        }
+      },
+      "meta": {
+        "enabled": true,
+        "appId": "",
+        "adUnits": {
+          "interstitial": "",
+          "banner": "",
+          "native": "",
+          "appOpen": "",
+          "rewarded": ""
+        }
+      },
+      "ironSourceLevelPlay": {
+        "enabled": true,
+        "appKey": "25b63cf85",
+        "adUnits": {
+          "interstitial": "h3xw38h9214adgxo",
+          "banner": "4fpetq4lhe5lsw3e",
+          "native": "",
+          "appOpen": "",
+          "rewarded": "syz3d8ekts22q0or"
+        }
+      },
+      "liftoffVungle": {
+        "enabled": true,
+        "appId": "",
+        "adUnits": {
+          "interstitial": "",
+          "banner": "",
+          "native": "",
+          "appOpen": "",
+          "rewarded": ""
+        }
+      },
+      "unityAds": {
+        "enabled": true,
+        "gameId": "",
+        "adUnits": {
+          "interstitial": "",
+          "banner": "",
+          "native": "",
+          "appOpen": "",
+          "rewarded": ""
+        }
+      },
+      "yandex": {
+        "enabled": true,
+        "appId": "",
+        "adUnits": {
+          "interstitial": "",
+          "banner": "",
+          "native": "",
+          "appOpen": "",
+          "rewarded": ""
+        }
+      }
+    }
   },
   "socialLinks": {
     "whatsappEnabled": true,
