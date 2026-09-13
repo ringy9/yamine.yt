@@ -1,5 +1,5 @@
 {
-  "configVersion": 17,
+  "configVersion": 18,
   "appNameAr": "ياسين لايف",
   "appNameEn": "YACINE LIVE",
   "headerLogoUrl": "",
@@ -8,6 +8,12 @@
   "shareUrl": "https://play.google.com/store/apps/details?id=com.ysntv.yaminetv",
   "privacyPolicyUrl": "",
   "supportEmail": "",
+  "oneSignal": {
+    "enabled": true,
+    "appId": "",
+    "requestPermissionOnLaunch": true,
+    "permissionPromptDelaySeconds": 5
+  },
   "socialLinks": {
     "whatsappEnabled": true,
     "whatsappUrl": "https://whatsapp.com/channel/0029Vb91zwxBadmUqBZUtO16",
