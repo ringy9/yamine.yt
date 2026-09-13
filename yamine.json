@@ -1,5 +1,5 @@
 {
-  "configVersion": 27,
+  "configVersion": 29,
   "appNameAr": "ياسين لايف",
   "appNameEn": "YACINE LIVE",
   "headerLogoUrl": "",
@@ -31,9 +31,9 @@
         "enabled": true,
         "showBeforePlayer": true,
         "showOnFirstPlayerClick": true,
-        "everyNPlayerClicks": 4,
-        "minIntervalSeconds": 30,
-        "maxPerSession": 2
+        "everyNPlayerClicks": 3,
+        "minIntervalSeconds": 0,
+        "maxPerSession": 50
       },
       "banner": {
         "enabled": true,
@@ -43,6 +43,9 @@
         "enabled": true,
         "showInMatchesFeed": true,
         "showInNewsFeed": true,
+        "showUnderPlayer": true,
+        "showAtTopOfNewsArticle": true,
+        "showInExitDialog": true,
         "insertEveryItems": 6,
         "maxPerScreen": 2
       },
@@ -50,9 +53,9 @@
         "enabled": true,
         "showOnColdStart": false,
         "showOnForeground": true,
-        "minBackgroundSeconds": 120,
-        "minIntervalSeconds": 14400,
-        "maxPerSession": 1
+        "minBackgroundSeconds": 2,
+        "minIntervalSeconds": 30,
+        "maxPerSession": 20
       },
       "rewarded": {
         "enabled": false,
