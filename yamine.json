@@ -32,7 +32,7 @@
         "showBeforePlayer": true,
         "showOnFirstPlayerClick": true,
         "everyNPlayerClicks": 4,
-        "minIntervalSeconds": 180,
+        "minIntervalSeconds": 30,
         "maxPerSession": 2
       },
       "banner": {
@@ -40,14 +40,14 @@
         "showOnMainScreens": true
       },
       "native": {
-        "enabled": false,
+        "enabled": true,
         "showInMatchesFeed": true,
         "showInNewsFeed": true,
         "insertEveryItems": 6,
         "maxPerScreen": 2
       },
       "appOpen": {
-        "enabled": false,
+        "enabled": true,
         "showOnColdStart": false,
         "showOnForeground": true,
         "minBackgroundSeconds": 120,
