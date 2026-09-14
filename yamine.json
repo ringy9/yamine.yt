@@ -1,5 +1,5 @@
 {
-  "configVersion": 29,
+  "configVersion": 30,
   "appNameAr": "ياسين لايف",
   "appNameEn": "YACINE LIVE",
   "headerLogoUrl": "",
@@ -29,9 +29,9 @@
     "formats": {
       "interstitial": {
         "enabled": true,
-        "showBeforePlayer": true,
-        "showOnFirstPlayerClick": true,
-        "everyNPlayerClicks": 3,
+        "showOnContentClick": true,
+        "showOnFirstClick": true,
+        "everyNClicks": 3,
         "minIntervalSeconds": 0,
         "maxPerSession": 50
       },
@@ -46,6 +46,7 @@
         "showUnderPlayer": true,
         "showAtTopOfNewsArticle": true,
         "showInExitDialog": true,
+        "showInMatchCenter": true,
         "insertEveryItems": 6,
         "maxPerScreen": 2
       },
