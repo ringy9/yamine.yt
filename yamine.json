@@ -1,5 +1,5 @@
 {
-  "configVersion": 30,
+  "configVersion": 32,
   "appNameAr": "ياسين لايف",
   "appNameEn": "YACINE LIVE",
   "headerLogoUrl": "",
@@ -32,6 +32,11 @@
         "showOnContentClick": true,
         "showOnFirstClick": true,
         "everyNClicks": 3,
+        "loadTimeoutSeconds": 5,
+        "preloadOnSplash": true,
+        "requireReadyBeforeEnter": true,
+        "splashMinDurationSeconds": 3,
+        "splashMaxWaitSeconds": 12,
         "minIntervalSeconds": 0,
         "maxPerSession": 50
       },
