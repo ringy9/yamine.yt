@@ -244,7 +244,7 @@
     {
       "fixtureId": 0,
       "playerMode": "external",
-      "thumbnailUrl": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=1600",
+      "thumbnailUrl": "https://github.com/ringy9/yamine.yt/blob/main/thumbnail.png?raw=true",
       "sources": [
         {
           "nameAr": "السيرفر الافتراضي",
@@ -261,7 +261,7 @@
     {
       "fixtureId": 123456,
       "playerMode": "internal",
-      "thumbnailUrl": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=1600",
+      "thumbnailUrl": "https://github.com/ringy9/yamine.yt/blob/main/thumbnail.png?raw=true",
       "sources": [
         {
           "nameAr": "سيرفر 1",
