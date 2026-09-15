@@ -106,13 +106,13 @@
       },
       "liftoffVungle": {
         "enabled": true,
-        "appId": "",
+        "appId": "6aa8e1e807b74064097151b2",
         "adUnits": {
-          "interstitial": "",
-          "banner": "",
-          "native": "",
-          "appOpen": "",
-          "rewarded": ""
+          "interstitial": "INTERSTITIAL-5694614",
+          "banner": "BANNER-7824215",
+          "native": "NATIVE-2577828",
+          "appOpen": "APP_OPEN-7844106",
+          "rewarded": "REWARDED-8082793"
         }
       },
       "unityAds": {
