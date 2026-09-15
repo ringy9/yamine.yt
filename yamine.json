@@ -95,13 +95,13 @@
       },
       "ironSourceLevelPlay": {
         "enabled": true,
-        "appKey": "25b63cf85",
+        "appKey": "2823163d5",
         "adUnits": {
-          "interstitial": "h3xw38h9214adgxo",
-          "banner": "4fpetq4lhe5lsw3e",
-          "native": "",
+          "interstitial": "n6pxrezl1fbq7x4v",
+          "banner": "2cnaujic4mcx0999",
+          "native": "6wn3ees4mi9xtub6",
           "appOpen": "",
-          "rewarded": "syz3d8ekts22q0or"
+          "rewarded": "845b4vblo0fq2tyu"
         }
       },
       "liftoffVungle": {
@@ -117,24 +117,24 @@
       },
       "unityAds": {
         "enabled": true,
-        "gameId": "",
+        "gameId": "6190776",
         "adUnits": {
-          "interstitial": "",
-          "banner": "",
+          "interstitial": "Interstitial_Android",
+          "banner": "Banner_Android",
           "native": "",
           "appOpen": "",
-          "rewarded": ""
+          "rewarded": "Rewarded_Android"
         }
       },
       "yandex": {
         "enabled": true,
-        "appId": "",
+        "appId": "20048759",
         "adUnits": {
-          "interstitial": "",
-          "banner": "",
-          "native": "",
-          "appOpen": "",
-          "rewarded": ""
+          "interstitial": "R-M-20048759-3",
+          "banner": "R-M-20048759-1",
+          "native": "R-M-20048759-2",
+          "appOpen": "R-M-20048759-5",
+          "rewarded": "R-M-20048759-4"
         }
       }
     }
