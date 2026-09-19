@@ -242,14 +242,14 @@
   ],
   "streams": [
     {
-      "fixtureId": 0,
+      "fixtureId": 1570400,
       "playerMode": "external",
       "thumbnailUrl": "https://github.com/ringy9/yamine.yt/blob/main/thumbnail.png?raw=true",
       "sources": [
         {
           "nameAr": "السيرفر الافتراضي",
           "nameEn": "Default server",
-          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "url": "https://live-cdn.tofi-xtv.com/hls/bein1.m3u8",
           "type": "mp4",
           "user_agent": "",
           "referer": "",
@@ -259,14 +259,14 @@
       ]
     },
     {
-      "fixtureId": 123456,
-      "playerMode": "internal",
+      "fixtureId": 1570400,
+      "playerMode": "external",
       "thumbnailUrl": "https://github.com/ringy9/yamine.yt/blob/main/thumbnail.png?raw=true",
       "sources": [
         {
           "nameAr": "سيرفر 1",
           "nameEn": "Server 1",
-          "url": "https://example.com/match-123456/master.m3u8",
+          "url": "https://live-cdn.tofi-xtv.com/hls/bein1.m3u8",
           "type": "m3u8",
           "user_agent": "Mozilla/5.0",
           "referer": "https://example.com/",
