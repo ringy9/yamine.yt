@@ -10,7 +10,7 @@
   "supportEmail": "",
   "oneSignal": {
     "enabled": true,
-    "appId": "",
+    "appId": "404babad-10e9-4b12-920c-c6663a59fd00",
     "requestPermissionOnLaunch": true,
     "permissionPromptDelaySeconds": 5
   },
