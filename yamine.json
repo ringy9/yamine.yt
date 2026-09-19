@@ -260,7 +260,7 @@
     },
     {
       "fixtureId": 1570400,
-      "playerMode": "external",
+      "playerMode": "internal",
       "thumbnailUrl": "https://github.com/ringy9/yamine.yt/blob/main/thumbnail.png?raw=true",
       "sources": [
         {
