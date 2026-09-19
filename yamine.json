@@ -140,13 +140,13 @@
     }
   },
   "socialLinks": {
-    "whatsappEnabled": true,
+    "whatsappEnabled": false,
     "whatsappUrl": "https://whatsapp.com/channel/0029Vb91zwxBadmUqBZUtO16",
-    "telegramEnabled": true,
+    "telegramEnabled": false,
     "telegramUrl": "https://t.me/Ilyas_tv_live"
   },
   "telegramJoinPopup": {
-    "enabled": true,
+    "enabled": false,
     "showOnLaunch": true,
     "showOncePerCampaign": true,
     "campaignId": "telegram-channel-v1",
