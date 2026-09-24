@@ -1,5 +1,5 @@
 {
-  "configVersion": 32,
+  "configVersion": 34,
   "appNameAr": "ياسين لايف",
   "appNameEn": "YACINE LIVE",
   "headerLogoUrl": "https://github.com/ringy9/yamine.yt/blob/main/ILYASLOGO.png?raw=true",
@@ -37,22 +37,27 @@
         "requireReadyBeforeEnter": true,
         "splashMinDurationSeconds": 3,
         "splashMaxWaitSeconds": 12,
+        "showOnOnboardingComplete": true,
         "minIntervalSeconds": 0,
         "maxPerSession": 50
       },
       "banner": {
         "enabled": true,
-        "showOnMainScreens": true
+        "showOnMainScreens": true,
+        "showOnOnboarding": true
       },
       "native": {
         "enabled": true,
         "showInMatchesFeed": true,
+        "showInLeaguesFeed": true,
+        "showInFavoritesFeed": true,
         "showInNewsFeed": true,
         "showUnderPlayer": true,
         "showAtTopOfNewsArticle": true,
         "showInExitDialog": true,
         "showInMatchCenter": true,
-        "insertEveryItems": 6,
+        "showOnOnboardingFinal": true,
+        "insertEveryItems": 4,
         "maxPerScreen": 2
       },
       "appOpen": {
@@ -232,13 +237,24 @@
     489,
     505,
     492,
-    31,
     26,
-    6,
-    2,
     9,
+    2,
     10,
-    1
+    6,
+    27,
+    1,
+    1118,
+    25,
+    31,
+    3,
+    768,
+    8,
+    7,
+    2384,
+    16,
+    12,
+    13
   ],
   "streams": [
   {
