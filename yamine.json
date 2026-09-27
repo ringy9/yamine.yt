@@ -1,18 +1,29 @@
 {
-  "configVersion": 34,
-  "appNameAr": "ياسين لايف",
-  "appNameEn": "YACINE LIVE",
+  "configVersion": 40,
+  "appNameAr": "إلياس لايف",
+  "appNameEn": "ILYAS LIVE",
   "headerLogoUrl": "https://github.com/ringy9/yamine.yt/blob/main/ILYASLOGO.png?raw=true",
   "rateBannerImage": "https://github.com/ringy9/yamine.yt/blob/main/RateUs.png?raw=true",
   "rateUsUrl": "https://play.google.com/store/apps/details?id=com.ysntv.yaminetv",
   "shareUrl": "https://play.google.com/store/apps/details?id=com.ysntv.yaminetv",
-  "privacyPolicyUrl": "",
-  "supportEmail": "",
+  "privacyPolicyUrl": "https://sites.google.com/view/yamineyt",
+  "supportEmail": "medomedo124f@gmail.com",
   "oneSignal": {
     "enabled": true,
     "appId": "404babad-10e9-4b12-920c-c6663a59fd00",
     "requestPermissionOnLaunch": true,
     "permissionPromptDelaySeconds": 5
+  },
+  "matchNotifications": {
+    "enabled": true,
+    "reminderEnabled": true,
+    "reminderMinutes": 15,
+    "kickoffAlerts": true,
+    "goalAlerts": true,
+    "finalAlerts": true,
+    "maxMatchesPerDay": 20,
+    "leagueIds": [2, 39, 140, 135, 78, 61, 307, 12, 20, 3, 848, 253, 200],
+    "teamIds": [541, 529, 530, 40, 42, 50, 33, 49, 47, 85, 157, 165, 496, 489, 505, 492, 26, 9, 2, 10, 6, 27, 1, 1118, 25, 31, 3]
   },
   "ads": {
     "enabled": true,
@@ -57,8 +68,9 @@
         "showInExitDialog": true,
         "showInMatchCenter": true,
         "showOnOnboardingFinal": true,
-        "insertEveryItems": 4,
-        "maxPerScreen": 2
+        "showBeforeFirstItem": true,
+        "insertEveryItems": 6,
+        "maxPerScreen": 10
       },
       "appOpen": {
         "enabled": true,
@@ -168,7 +180,7 @@
   "exitDialog": {
     "enabled": true,
     "titleAr": "هل تريد مغادرة التطبيق؟",
-    "titleEn": "Leave Yacine Live?",
+    "titleEn": "Leave Ilyas Live?",
     "messageAr": "نتمنى أنك استمتعت بالتجربة. يمكنك العودة في أي وقت لمتابعة جديد المباريات.",
     "messageEn": "We hope you enjoyed the experience. Come back anytime for the latest matches.",
     "stayAr": "البقاء",
@@ -283,7 +295,7 @@
         "nameAr": "سيرفر برشلونة",
         "nameEn": "Barcelona server",
         "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-        "type": "m3u8",
+        "type": "mp4",
         "user_agent": "Mozilla/5.0",
         "referer": "",
         "origin": "",
@@ -297,7 +309,7 @@
       "id": "h1",
       "titleAr": "أفضل لقطات المباراة — فيديو تجريبي",
       "titleEn": "Best match moments — demo video",
-      "competition": "Yacine Live Demo",
+      "competition": "Ilyas Live",
       "thumbnailUrl": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=1200",
       "videoUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
       "videoType": "m3u8",
@@ -315,4 +327,3 @@
     }
   ]
 }
- 
