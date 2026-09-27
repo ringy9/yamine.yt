@@ -1,5 +1,5 @@
 {
-  "configVersion": 40,
+  "configVersion": 41,
   "appNameAr": "إلياس لايف",
   "appNameEn": "ILYAS LIVE",
   "headerLogoUrl": "https://github.com/ringy9/yamine.yt/blob/main/ILYASLOGO.png?raw=true",
@@ -24,6 +24,12 @@
     "maxMatchesPerDay": 20,
     "leagueIds": [2, 39, 140, 135, 78, 61, 307, 12, 20, 3, 848, 253, 200],
     "teamIds": [541, 529, 530, 40, 42, 50, 33, 49, 47, 85, 157, 165, 496, 489, 505, 492, 26, 9, 2, 10, 6, 27, 1, 1118, 25, 31, 3]
+  },
+  "newsQuality": {
+    "minimumWords": 90,
+    "maxArticles": 12,
+    "candidateLimit": 36,
+    "requireRealImage": true
   },
   "ads": {
     "enabled": true,
