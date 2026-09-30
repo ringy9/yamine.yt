@@ -1,5 +1,5 @@
 {
-  "configVersion": 43,
+  "configVersion": 58,
   "appNameAr": "إلياس لايف",
   "appNameEn": "ILYAS LIVE",
   "headerLogoUrl": "https://github.com/ringy9/yamine.yt/blob/main/ILYASLOGO.png?raw=true",
@@ -26,8 +26,8 @@
     "teamIds": [541, 529, 530, 40, 42, 50, 33, 49, 47, 85, 157, 165, 496, 489, 505, 492, 26, 9, 2, 10, 6, 27, 1, 1118, 25, 31, 3]
   },
   "newsQuality": {
-    "minimumWords": 90,
-    "maxArticles": 12,
+    "minimumWords": 120,
+    "maxArticles": 20,
     "candidateLimit": 36,
     "requireRealImage": true
   },
