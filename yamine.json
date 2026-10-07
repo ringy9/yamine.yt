@@ -1,8 +1,11 @@
 {
-  "configVersion": 61,
+  "configVersion": 66,
   "appNameAr": "إلياس لايف",
   "appNameEn": "ILYAS LIVE",
-  "headerLogoUrl": "https://github.com/ringy9/yamine.yt/blob/main/ILYAS%20LIVE%20football.png?raw=true",
+  "headerLogoEnabled": true,
+  "headerLogoUrl": "https://github.com/ringy9/yamine.yt/blob/main/ILYASLOGO.png?raw=true",
+  "splashLogoEnabled": true,
+  "splashLogoUrl": "https://raw.githubusercontent.com/ringy9/yamine.yt/refs/heads/main/ILYASLOGO.png",
   "rateBannerImage": "https://github.com/ringy9/yamine.yt/blob/main/RateUs.png?raw=true",
   "rateUsUrl": "https://play.google.com/store/apps/details?id=com.ysntv.yaminetv",
   "shareUrl": "https://play.google.com/store/apps/details?id=com.ysntv.yaminetv",
@@ -163,13 +166,13 @@
     }
   },
   "socialLinks": {
-    "whatsappEnabled": true,
+    "whatsappEnabled": false,
     "whatsappUrl": "https://whatsapp.com/channel/0029Vb91zwxBadmUqBZUtO16",
-    "telegramEnabled": true,
+    "telegramEnabled": false,
     "telegramUrl": "https://t.me/Ilyas_tv_live"
   },
   "telegramJoinPopup": {
-    "enabled": true,
+    "enabled": false,
     "showOnLaunch": true,
     "showOncePerCampaign": true,
     "campaignId": "telegram-channel-v1",
