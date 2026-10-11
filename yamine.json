@@ -55,7 +55,7 @@
         "loadTimeoutSeconds": 5,
         "preloadOnSplash": true,
         "requireReadyBeforeEnter": true,
-        "splashMinDurationSeconds": 3,
+        "splashMinDurationSeconds": 4,
         "splashMaxWaitSeconds": 12,
         "showOnOnboardingComplete": true,
         "minIntervalSeconds": 0,
