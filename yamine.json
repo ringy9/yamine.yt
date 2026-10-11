@@ -36,7 +36,7 @@
   },
   "ads": {
     "enabled": true,
-    "testMode": true,
+    "testMode": false,
     "consentEnabled": true,
     "tagForChildDirectedTreatment": false,
     "tagForUnderAgeOfConsent": false,
@@ -99,13 +99,13 @@
     "networks": {
       "admob": {
         "enabled": true,
-        "appId": "ca-app-pub-3940256099942544~3347511713",
+        "appId": "ca-app-pub-9786019404931030~5689333614",
         "adUnits": {
-          "interstitial": "ca-app-pub-3940256099942544/1033173712",
-          "banner": "ca-app-pub-3940256099942544/6300978111",
-          "native": "ca-app-pub-3940256099942544/2247696110",
-          "appOpen": "ca-app-pub-3940256099942544/9257395921",
-          "rewarded": "ca-app-pub-3940256099942544/5224354917"
+          "interstitial": "ca-app-pub-9786019404931030/3170020943",
+          "banner": "ca-app-pub-9786019404931030/4483102614",
+          "native": "ca-app-pub-9786019404931030/1724991618",
+          "appOpen": "ca-app-pub-9786019404931030/9411909944",
+          "rewarded": "ca-app-pub-9786019404931030/2539465559"
         }
       },
       "meta": {
@@ -121,13 +121,13 @@
       },
       "ironSourceLevelPlay": {
         "enabled": true,
-        "appKey": "2823163d5",
+        "appKey": "28a2aa02d",
         "adUnits": {
-          "interstitial": "n6pxrezl1fbq7x4v",
-          "banner": "2cnaujic4mcx0999",
-          "native": "6wn3ees4mi9xtub6",
+          "interstitial": "le22awbar9z3fxnc",
+          "banner": "n2abqqe92w9pvyqi",
+          "native": "vp5q1wvz073l15yh",
           "appOpen": "",
-          "rewarded": "845b4vblo0fq2tyu"
+          "rewarded": "jmxjl3hj2bjwl9jw"
         }
       },
       "liftoffVungle": {
