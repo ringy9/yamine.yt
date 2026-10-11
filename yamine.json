@@ -1,7 +1,7 @@
 {
   "configVersion": 66,
   "appNameAr": "إلياس لايف",
-  "appNameEn": "ILYAS LIVE",
+  "appNameEn": "Yamine TV",
   "headerLogoEnabled": true,
   "headerLogoUrl": "https://github.com/ringy9/yamine.yt/blob/main/ILYASLOGO.png?raw=true",
   "splashLogoEnabled": true,
@@ -13,7 +13,7 @@
   "supportEmail": "medomedo124f@gmail.com",
   "oneSignal": {
     "enabled": true,
-    "appId": "404babad-10e9-4b12-920c-c6663a59fd00",
+    "appId": "a87374ad-dd1c-4066-aeb3-4374c6b42fbb",
     "requestPermissionOnLaunch": true,
     "permissionPromptDelaySeconds": 5
   },
