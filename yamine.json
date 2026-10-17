@@ -277,7 +277,7 @@
     12,
     13
   ],
-  "streams": [
+ "streams": [
   {
     "fixtureId": 0,
     "playerMode": "external",
@@ -295,23 +295,91 @@
       }
     ]
   },
-  {
-    "fixtureId": 1570400,
-    "playerMode": "external",
-    "thumbnailUrl": "https://raw.githubusercontent.com/ringy9/yamine.yt/main/thumbnail.png",
-    "sources": [
-      {
-        "nameAr": "سيرفر برشلونة",
-        "nameEn": "Barcelona server",
-        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-        "type": "mp4",
-        "user_agent": "Mozilla/5.0",
-        "referer": "",
-        "origin": "",
-        "cookie": ""
-      }
-    ]
-  }
+   {
+      "fixtureId": 1557430,
+      "playerMode": "external",
+      "thumbnailUrl": "https://raw.githubusercontent.com/ringy9/yamine.yt/main/thumbnail.png",
+      "sources": [
+        {
+          "nameAr": "سيرفر إيفرتون ضد تشيلسي",
+          "nameEn": "Everton vs Chelsea server",
+          "url": "http://re300.new-redirect.online/live/918454578001/index.m3u8?t=SZMMUBSVuEZ1S19pYpBLVA&e=1792256810",
+          "type": "m3u8",
+          "user_agent": "Mozilla/5.0",
+          "referer": "",
+          "origin": "",
+          "cookie": ""
+        }
+      ]
+    },
+    {
+      "fixtureId": 1557428,
+      "playerMode": "external",
+      "thumbnailUrl": "https://raw.githubusercontent.com/ringy9/yamine.yt/main/thumbnail.png",
+      "sources": [
+        {
+          "nameAr": "سيرفر برينتفورد ضد ليفربول",
+          "nameEn": "Brentford vs Liverpool server",
+          "url": "http://h58.nodeoryn.buzz/live/645587700/index.m3u8?t=aM7r_5qPckPkZitRoNSr6g&e=1792257011",
+          "type": "m3u8",
+          "user_agent": "Mozilla/5.0",
+          "referer": "",
+          "origin": "",
+          "cookie": ""
+        }
+      ]
+    },
+    {
+      "fixtureId": 1557433,
+      "playerMode": "external",
+      "thumbnailUrl": "https://raw.githubusercontent.com/ringy9/yamine.yt/main/thumbnail.png",
+      "sources": [
+        {
+          "nameAr": "سيرفر مانشستر سيتي ضد إيبسويتش تاون",
+          "nameEn": "Manchester City vs Ipswich Town server",
+          "url": "http://re300.new-redirect.online/live/918454578001/index.m3u8?t=SZMMUBSVuEZ1S19pYpBLVA&e=1792256810",
+          "type": "m3u8",
+          "user_agent": "Mozilla/5.0",
+          "referer": "",
+          "origin": "",
+          "cookie": ""
+        }
+      ]
+    },
+    {
+      "fixtureId": 1570413,
+      "playerMode": "external",
+      "thumbnailUrl": "https://raw.githubusercontent.com/ringy9/yamine.yt/main/thumbnail.png",
+      "sources": [
+        {
+          "nameAr": "سيرفر ريال بيتيس ضد برشلونة",
+          "nameEn": "Real Betis vs Barcelona server",
+          "url": "http://re300.new-redirect.online/live/918454578001/index.m3u8?t=SZMMUBSVuEZ1S19pYpBLVA&e=1792256810",
+          "type": "m3u8",
+          "user_agent": "Mozilla/5.0",
+          "referer": "",
+          "origin": "",
+          "cookie": ""
+        }
+      ]
+    },
+    {
+      "fixtureId": 1552790,
+      "playerMode": "external",
+      "thumbnailUrl": "https://raw.githubusercontent.com/ringy9/yamine.yt/main/thumbnail.png",
+      "sources": [
+        {
+          "nameAr": "سيرفر ستراسبورغ ضد باريس سان جيرمان",
+          "nameEn": "Strasbourg vs Paris Saint-Germain server",
+          "url": "http://re300.new-redirect.online/live/69854211/index.m3u8?t=MuxlYXnQpfvB7gboEmhtAg&e=1792256921",
+          "type": "m3u8",
+          "user_agent": "Mozilla/5.0",
+          "referer": "",
+          "origin": "",
+          "cookie": ""
+        }
+      ]
+    }
   ],
   "highlights": [
     {
