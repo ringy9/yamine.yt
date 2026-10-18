@@ -296,40 +296,6 @@
     ]
   },
     {
-      "fixtureId": 1557432,
-      "playerMode": "external",
-      "thumbnailUrl": "https://raw.githubusercontent.com/ringy9/yamine.yt/main/thumbnail.png",
-      "sources": [
-        {
-          "nameAr": "سيرفر ليدز يونايتد ضد مانشستر يونايتد",
-          "nameEn": "Leeds United vs Manchester United server",
-          "url": "http://primetv.cc.cd/beinsp1fhd/index.m3u8",
-          "type": "mp4",
-          "user_agent": "Mozilla/5.0",
-          "referer": "",
-          "origin": "",
-          "cookie": ""
-        }
-      ]
-    },
-    {
-      "fixtureId": 1557435,
-      "playerMode": "external",
-      "thumbnailUrl": "https://raw.githubusercontent.com/ringy9/yamine.yt/main/thumbnail.png",
-      "sources": [
-        {
-          "nameAr": "سيرفر نوتنغهام فورست ضد أرسنال",
-          "nameEn": "Nottingham Forest vs Arsenal server",
-          "url": "http://primetv.cc.cd/beinsp1fhd/index.m3u8",
-          "type": "mp4",
-          "user_agent": "Mozilla/5.0",
-          "referer": "",
-          "origin": "",
-          "cookie": ""
-        }
-      ]
-    },
-    {
       "fixtureId": 1570420,
       "playerMode": "external",
       "thumbnailUrl": "https://raw.githubusercontent.com/ringy9/yamine.yt/main/thumbnail.png",
@@ -337,7 +303,7 @@
         {
           "nameAr": "سيرفر ريال مدريد ضد إشبيلية",
           "nameEn": "Real Madrid vs Sevilla server",
-          "url": "http://primetv.cc.cd/beinsp1fhd/index.m3u8",
+          "url": "https://live.notioncraft.studio/channel1/index.m3u8",
           "type": "mp4",
           "user_agent": "Mozilla/5.0",
           "referer": "",
