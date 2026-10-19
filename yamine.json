@@ -99,13 +99,13 @@
     "networks": {
       "admob": {
         "enabled": true,
-        "appId": "ca-app-pub-9786019404931030~5689333614",
+        "appId": "ca-app-pub-2722622439616587~8196902758",
         "adUnits": {
-          "interstitial": "ca-app-pub-9786019404931030/3170020943",
-          "banner": "ca-app-pub-9786019404931030/4483102614",
-          "native": "ca-app-pub-9786019404931030/1724991618",
-          "appOpen": "ca-app-pub-9786019404931030/9411909944",
-          "rewarded": "ca-app-pub-9786019404931030/2539465559"
+          "interstitial": "ca-app-pub-2722622439616587/6883821082",
+          "banner": "ca-app-pub-2722622439616587/5190720608",
+          "native": "ca-app-pub-2722622439616587/2564557260",
+          "appOpen": "ca-app-pub-2722622439616587/9955787110",
+          "rewarded": "ca-app-pub-2722622439616587/6249396263"
         }
       },
       "meta": {
