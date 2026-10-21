@@ -99,13 +99,13 @@
     "networks": {
       "admob": {
         "enabled": true,
-        "appId": "ca-app-pub-2722622439616587~8196902758",
+        "appId": "",
         "adUnits": {
-          "interstitial": "ca-app-pub-2722622439616587/6883821082",
-          "banner": "ca-app-pub-2722622439616587/5190720608",
-          "native": "ca-app-pub-2722622439616587/2564557260",
-          "appOpen": "ca-app-pub-2722622439616587/9955787110",
-          "rewarded": "ca-app-pub-2722622439616587/6249396263"
+          "interstitial": "",
+          "banner": "",
+          "native": "",
+          "appOpen": "",
+          "rewarded": ""
         }
       },
       "meta": {
